@@ -49,7 +49,7 @@ pokemon-card-generator/
 2. **Open the folder**
    ```bash
    cd pokemon-card-generator
-3. **Run the App: **
-Simply double-click index.html in your browser.
+3. **Run the App**
+: Simply double-click index.html in your browser.
 No server setup required.
 
